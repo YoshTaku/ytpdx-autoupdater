@@ -1,1 +1,3 @@
-https://cdn.discordapp.com/attachments/856574737916100639/878753206438612992/Layout.pack
+https://github.com/YoshTaku/yoshtaku-test/raw/main/download.txt
+https://github.com/YoshTaku/yoshtaku-test/raw/main/test.zip
+https://github.com/YoshTaku/yoshtaku-test/raw/main/version.txt
